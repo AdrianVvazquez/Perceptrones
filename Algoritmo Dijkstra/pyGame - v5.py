@@ -1,7 +1,6 @@
 import pygame
 import random
 from typing import Tuple
-from pymysql import NULL
 
 # Globales
 SIZE = [800, 800]
