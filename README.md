@@ -3,7 +3,7 @@
 Todos los archivos son creados desde cero con excepción de las imágenes descargadas de internet. Respecto a la arquitectura, es preferible cambiar a un patrón orientado a objetos. Todo es muy básico y no se usó ninguna librería de IA o para procesamiento de datos. 
 Se creó un juego con pygame en python para aplicar algoritmos para encontrar la ruta más corta. Estos algoritmos son usados diariamente por nuestros dispositivos de navegación o en los videojuegos.
 
-## Carpetas
+## Contenido
 ## 1. [Algoritmo Dijkstra]
 Tiene las iteraciones que llevaron al juego final, que es la versión que está en la carpeta "Juego Final 1".
 A partir de la versión 5 el juego es estable. Se dejaron para seguir experimentando con matrices.
